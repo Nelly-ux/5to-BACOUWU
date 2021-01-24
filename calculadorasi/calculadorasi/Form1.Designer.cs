@@ -55,6 +55,7 @@
             // lblv1
             // 
             this.lblv1.AutoSize = true;
+            this.lblv1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.lblv1.Font = new System.Drawing.Font("Modern No. 20", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblv1.Location = new System.Drawing.Point(215, 91);
             this.lblv1.Name = "lblv1";
@@ -65,6 +66,7 @@
             // lblv2
             // 
             this.lblv2.AutoSize = true;
+            this.lblv2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.lblv2.Font = new System.Drawing.Font("Modern No. 20", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblv2.Location = new System.Drawing.Point(215, 161);
             this.lblv2.Name = "lblv2";
@@ -114,6 +116,7 @@
             // lblOp
             // 
             this.lblOp.AutoSize = true;
+            this.lblOp.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.lblOp.Font = new System.Drawing.Font("Modern No. 20", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblOp.Location = new System.Drawing.Point(215, 241);
             this.lblOp.Name = "lblOp";
