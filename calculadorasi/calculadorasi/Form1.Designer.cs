@@ -116,7 +116,7 @@
             // lblOp
             // 
             this.lblOp.AutoSize = true;
-            this.lblOp.BackColor = System.Drawing.Color.CadetBlue;
+            this.lblOp.BackColor = System.Drawing.Color.DarkKhaki;
             this.lblOp.Font = new System.Drawing.Font("Modern No. 20", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblOp.Location = new System.Drawing.Point(215, 241);
             this.lblOp.Name = "lblOp";
