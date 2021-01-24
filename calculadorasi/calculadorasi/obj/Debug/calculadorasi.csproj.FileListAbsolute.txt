@@ -1,0 +1,10 @@
+C:\Users\Nelly\Documents\2021\PROGRAMACIÓN\BACO UWU\5to-BACOUWU\calculadorasi\calculadorasi\bin\Debug\calculadorasi.exe.config
+C:\Users\Nelly\Documents\2021\PROGRAMACIÓN\BACO UWU\5to-BACOUWU\calculadorasi\calculadorasi\bin\Debug\calculadorasi.exe
+C:\Users\Nelly\Documents\2021\PROGRAMACIÓN\BACO UWU\5to-BACOUWU\calculadorasi\calculadorasi\bin\Debug\calculadorasi.pdb
+C:\Users\Nelly\Documents\2021\PROGRAMACIÓN\BACO UWU\5to-BACOUWU\calculadorasi\calculadorasi\obj\Debug\calculadorasi.csprojAssemblyReference.cache
+C:\Users\Nelly\Documents\2021\PROGRAMACIÓN\BACO UWU\5to-BACOUWU\calculadorasi\calculadorasi\obj\Debug\calculadorasi.Form1.resources
+C:\Users\Nelly\Documents\2021\PROGRAMACIÓN\BACO UWU\5to-BACOUWU\calculadorasi\calculadorasi\obj\Debug\calculadorasi.Properties.Resources.resources
+C:\Users\Nelly\Documents\2021\PROGRAMACIÓN\BACO UWU\5to-BACOUWU\calculadorasi\calculadorasi\obj\Debug\calculadorasi.csproj.GenerateResource.cache
+C:\Users\Nelly\Documents\2021\PROGRAMACIÓN\BACO UWU\5to-BACOUWU\calculadorasi\calculadorasi\obj\Debug\calculadorasi.csproj.CoreCompileInputs.cache
+C:\Users\Nelly\Documents\2021\PROGRAMACIÓN\BACO UWU\5to-BACOUWU\calculadorasi\calculadorasi\obj\Debug\calculadorasi.exe
+C:\Users\Nelly\Documents\2021\PROGRAMACIÓN\BACO UWU\5to-BACOUWU\calculadorasi\calculadorasi\obj\Debug\calculadorasi.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CE15465C-0690-4AE8-9A5E-C335CF04BD90}</ProjectGuid>
+    <ProjectGuid>{6546C761-8107-46AD-A819-0358C03E97A2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CALCULADORA</RootNamespace>
-    <AssemblyName>CALCULADORA</AssemblyName>
+    <RootNamespace>calculadorasi</RootNamespace>
+    <AssemblyName>calculadorasi</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -52,6 +52,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="operaciones.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
